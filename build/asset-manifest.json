@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.176b33fd.css",
+    "main.js": "/static/js/main.afac3356.js",
+    "static/media/netflix-kids.png": "/static/media/netflix-kids.7e9c0c2fccea936cef07.png",
+    "static/media/kids-Ava.png": "/static/media/kids-Ava.458eaff70878b3b6bcaf.png",
+    "static/media/blue-Ava.png": "/static/media/blue-Ava.59623adb74a9e9f01f82.png",
+    "static/media/netflix-bg.jpg": "/static/media/netflix-bg.ec4a0ff5beedb9104da5.jpg",
+    "static/media/yellow-Ava.png": "/static/media/yellow-Ava.0f3f06f2a4c5acb03243.png",
+    "index.html": "/index.html",
+    "main.176b33fd.css.map": "/static/css/main.176b33fd.css.map",
+    "main.afac3356.js.map": "/static/js/main.afac3356.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.176b33fd.css",
+    "static/js/main.afac3356.js"
+  ]
+}
