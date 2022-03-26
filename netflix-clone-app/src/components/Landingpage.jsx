@@ -125,9 +125,9 @@ const Landingpage = () => {
                     </div>
                     <div className='flex flex-col items-center  '>
                         <p className='text-center scale-95 text-xl mx-7 mobileL:mx-12 mobileL:font-semibold bp4:mb-1 leading-tight pb-3 max-w-lg'>Ready to watch? Enter your email to create or restart your membership.</p>
-                        <div className='bp4:grid bp4:grid-cols-3 flex flex-col items-center max-w-3xl bp2:max-w-lg bp2:w-11/12 bp2:m-auto mx-auto'>
-                            <input type="email" className='text-sm bp4:text-lg px-2 py-3 bp4:col-span-2 w-11/12 ' placeholder='Email address'/>
-                            <button className=' bg-red-600 w-fit mt-2 px-4 py-2 bp4:w-full text-lg '> Get started ></button>
+                        <div className='bp3:grid bp3:grid-cols-3 flex flex-col items-center max-w-3xl bp2:max-w-lg w-full bp2:w-11/12 bp2:m-auto mx-auto'>
+                            <input type="email" className='text-sm bp3:text-lg px-2 py-3 bp3:col-span-2 w-11/12 bp3:w-full ' placeholder='Email address'/>
+                            <button className='text-lg bp3:text-xl bg-red-600 px-3 py-2 bp3:px-6 bp3:py-3 mt-3 w-fit bp3:w-full mx-auto bp3:m-0'> Get started ></button>
                         </div>
                     </div>
                 </div>

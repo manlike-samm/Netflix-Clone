@@ -33,12 +33,12 @@ const Signin = () => {
                     <div className='bg-black opacity-70'>
                         <div className='footer text-white  text-sm py-16 px-11 mx-auto w-full max-w-5xl'>
                             <div className='mx-auto'>
-                            <div className='flex flex-col '>
+                            <div className='flex flex-col break-words '>
                                 <p className='mb-7 hover:cursor-pointer hover:underline'>Questions? Contact us.</p>
                                 <div className='w-full grid grid-cols-4'>
                                 <div className=' space-y-2'>
                                     <p className='hover:cursor-pointer hover:underline'>FAQ</p>
-                                    <p className='hover:cursor-pointer hover:underline'>Cookie Preferences</p>
+                                    <p className='hover:cursor-pointer hover:underline '>Cookie Preferences</p>
                                 </div>
                                 <div className=' space-y-2'>
                                     <p className='hover:cursor-pointer hover:underline'>Help Center</p>
